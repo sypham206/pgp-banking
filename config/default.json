@@ -1,0 +1,23 @@
+{
+    "mysql": {
+      "connectionLimit": 100,
+      "host": "sql12.freemysqlhosting.net",
+      "port": 3306,
+      "user": "sql12343281",
+      "password": "tNaJvc6mwN",
+      "database": "sql12343281"
+    },
+    "auth": {
+      "bankCode": "20PGP",
+      "secret": "secretKey",
+      "partnerRSA": "GO",
+      "secretPartnerRSA" : "InfymtPGP",
+      "partnerPGP": "",
+      "secretPartnerPGP" : "",
+      "partnerForTestRSA": "VCB",
+      "secretPartnerForTestRSA" : "Vietcombank",
+      "expiresIn": "10m",
+      "expireTime": 600000,
+      "refreshTokenSz": 80
+    }
+  }
